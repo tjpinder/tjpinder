@@ -14,6 +14,6 @@ I direct coding agents (Claude Code). I own the spec, the guardrails, the testin
 
 **Where I come from**
 
-ERP and WMS platforms (Manhattan SCALE, Dynamics GP), the integrations between them over EDI and XML, and the SQL Server and SSRS reporting on top. USMC veteran.
+Manhattan SCALE WMS, ERP integrations with Dynamics GP, AX, and Navision over EDI and XML, and the SQL Server and SSRS reporting on top. USMC veteran.
 
 [startvest.ai](https://startvest.ai) · [Blog](https://startvest.ai/blog) · [LinkedIn](https://www.linkedin.com/in/tom-pinder-88110732/)
