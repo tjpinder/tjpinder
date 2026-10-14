@@ -1,6 +1,6 @@
 ### Tom Pinder
 
-I turn messy operational workflows into working AI systems. Fifteen years running warehouse, distribution, and ERP/WMS operations; now building AI-enabled tools that operators actually adopt.
+I turn messy operational workflows into working AI systems. Fifteen years running the systems, integrations, and reporting that operations teams depend on; now building AI-enabled tools that operators actually adopt.
 
 **What I build**
 
@@ -14,6 +14,6 @@ I direct coding agents (Claude Code). I own the spec, the guardrails, the testin
 
 **Where I come from**
 
-Manhattan SCALE WMS across multi-site distribution networks, SQL Server and SSRS reporting, ERP integrations over EDI and XML. USMC veteran.
+ERP and WMS platforms (Manhattan SCALE, Dynamics GP), the integrations between them over EDI and XML, and the SQL Server and SSRS reporting on top. USMC veteran.
 
 [startvest.ai](https://startvest.ai) · [Blog](https://startvest.ai/blog) · [LinkedIn](https://www.linkedin.com/in/tom-pinder-88110732/)
